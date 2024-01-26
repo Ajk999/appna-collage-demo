@@ -1,4 +1,20 @@
-# appna-collage-demo
-this is my c programing language
-<Br>
-auther pankaj rajbhar
+//This is my first programing language c //
+
+# include<stdio.h>
+
+int main(){
+ 
+ 
+       int side;
+     
+     printf("enter side");
+
+     scanf("%d ",&side);
+
+     printf("area is : %d",side*side);
+return 0;
+
+
+}
+
+
